@@ -13,8 +13,7 @@
 		"devfactory/minify": "1.0.*",
 		"willishq/laravel5-flash": "0.2.*",
 		"yajra/laravel-datatables-oracle": "~5.0",
-		"zizaco/entrust": "dev-laravel-5",
-
+		"zizaco/entrust": "dev-laravel-5"
 	},
 	"autoload": {
 		"psr-4": {
