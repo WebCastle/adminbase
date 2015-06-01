@@ -13,6 +13,7 @@ class AdminBaseServiceProvider extends ServiceProvider
             __DIR__ . '/Http/Controllers/Admin' => base_path('app/Http/Controllers/Admin'),
             __DIR__ . '/Forms' => base_path('app/Forms'),
             __DIR__ . '/Http/Requests' => base_path('app/Http/Requests'),
+            __DIR__ . '/Models' => base_path('app/Models'),
         ]);
     }
 
